@@ -1,0 +1,12 @@
+.table-bus {
+    font-size: 8px;
+    
+    border-collapse: separate;
+    border-spacing: 1px ;
+    border-width: 1px;
+  }
+  
+  .td-bus {
+    margin: 5px ;
+    background-color: #e76a6a;
+  }
